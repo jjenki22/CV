@@ -52,31 +52,29 @@ Experimental Design
 ## Programming
 
 Statistical: R (primary), Python (novice), Stata (basic knowledge)
-
-Collaboration/Reporting/Visualization: Git, LaTeX, R Markdown, R/RStudio, R Shiny 
-
-Other: SQL 
+\newline Collaboration/Reporting/Visualization: Git, \LaTeX, R Markdown, R/RStudio, R Shiny 
+\newline Other: SQL 
 
 # Occupational History
 
 \hangindent=0.5in 2020--current: Partner & UX Designer -- SafeSeating Solutions$\\$
-Developed an application that helped atheltc teams optimize their stadiums for scoail distancing; used by Notre Dame Athletics and a MLB team planning for 2021 season
+Developed an application that helped athletic teams optimize their stadiums for social distancing; used by Notre Dame Athletics and an MLB team planning for 2021 season
 \newline Led the development of the user interface that allows athletic departments to adjust the model’s inputs based on feedback from athletic directors and local health officials
 
 \hangindent=0.5in 2019: Intern -- Altair Engineering$\\$
-Built a weekly sales report with a specific focus on sale’s team application of discounts; recommendations helped the CFO devise a cost-effective discount strategy 
-\newline Conducted research to identify challenges various departments faced while updating the CRM infrastructure; created presentation and reference materials to help smooth transition
+Built a weekly sales report with a specific focus on the sale’s team application of discounts; recommendations helped the CFO devise a cost-effective discount strategy 
+\newline Conducted research to identify challenges various departments faced while updating the CRM infrastructure; created presentation and reference materials to help smooth the transition
 
 \hangindent=0.5in 2018--2019: Associate -- Montalbano, Belliveau & St. Sauver LLP$\\$
 Researched various title instruments to assist attorneys as they evaluated various commercial and residential real estate transactions
 \newline Assisted attorneys in the preparation of title reports, commitments for title insurance, and various other legal transactions
 
 \hangindent=0.5in 2016: Intern -- U.S. Senator Sheldon Whitehouse Office$\\$
-Worked in Senator Whitehouse office, specifically talking with constituents to address their individual needs, and directing them to the proper division in the office
-\newline Attened Senator's weekly scheduling meeting and took minutes; also involved in the planning and set-up of various political functions
+Worked in Senator Whitehouse office, specifically talking with constituents to address their individual needs and directing them to the proper division in the office
+\newline Attended the Senator's weekly scheduling meeting and took minutes; also involved in the planning and set-up of various political functions
 
 \hangindent=0.5in 2012--2016: Camp Counselor -- Autism Project of Rhode Island$\\$
-Supported the specific needs of children with autism to facilitate a camp experience in a safe environment; created customized opportunities that instilled confidence and a sense of community with fellow campers 
+Supported the specific needs of children with autism to facilitate a camp experience in a safe environment; created customized opportunities that instilled confidence and a sense of community with fellow campers
 
 # Current Research
 \hangindent=0.5in 2020--current: Research Assistant -- University of Notre Dame, Mendoza College of Business$\\$
@@ -85,15 +83,15 @@ Add Info
 # Projects
 
 \hangindent=0.5in November 2020: Team Member -- [MLB Strikes Forecasting, University of Notre Dame](https://github.com/jjenki22/BaseballForcastProject)$\\$
-Project uses data scrapped from baseball-reference.com to predict the percentage of strikes expected to be thrown in the 2019 season using game data from the 2009-2018 seasons
-\newline The goal of this project is to investigate whether pitching stratgey has evolved over this time period and if an accurate strike forecast can be produced
+Uses data scraped from baseball-reference.com to predict the percentage of strikes expected to be thrown in the 2019 season using game data from the 2009-2018 seasons
+\newline The goal of this project is to investigate whether pitching strategies have evolved over this time period and if an accurate strike forecast can be produced
 
 \hangindent=0.5in October 2020: [Twitter Presidential Sentiment](https://github.com/jjenki22/Twitter-President-Sentiment)$\\$
 Created a shiny application that gets the streaming tweets around central figures in the 2020 election cycle and then runs sentiment analysis using the hash sentiment vadar from the lexicon R package
 
 \hangindent=0.5in 2019--2020: Project Manager -- MSBA Capstone Project, University of Notre Dame$\\$
 Led a five-person team that built a proof of concept application that was presented to upper management at an industry-leading transportation lease financing firm
-\newline Developed machine learning model that estimated repair and labor hours across eight facilities and over 300 categorical variables; model trained on a dataset with 20,000 entries
+\newline Developed a machine learning model that estimated repair and labor hours across eight facilities and over 300 categorical variables; model trained on a dataset with 20,000 entries
 
 \hangindent=0.5in April 2020: Team Leader -- [College Basketball Team Matcher, University of Notre Dame](http://ncaa.joejenks.com/)$\\$
 Led a three-person team that built a k-nearest neighbors matrix (K-NN) for NCAA teams (over 4200 teams and 45 statistical categories); project identifies statistically similar teams
@@ -102,22 +100,22 @@ Led a three-person team that built a k-nearest neighbors matrix (K-NN) for NCAA 
 Developed ricoronainfo.org to provide historical data on COVID-19 in Rhode Island; website runs on AWS and uses data from the RI Department of Health that was updated daily
 
 \hangindent=0.5in Febuary 2020: [Glassdoor Analysis](https://github.com/jjenki22/Glassdoor-Analysis)$\\$
-Analyzes Glassdoor reviews and performs sentiment analyis, as well as topic analysis, and investigates whether we can use sentiment analysis to predict glass door ratings
+Analyzes Glassdoor reviews and performs sentiment analysis, as well as topic analysis, and investigates whether we can use sentiment analysis to predict glass door ratings
 
-\hangindent=0.5in January 2020: [Earning Call Analysis Analysis](https://github.com/jjenki22/Earning-Call-Analysis)$\\$
-Uses stock data from the Alpha Vantage API and the Loughran-McDonald lexicon to run sentiment analysis on quarterly earnings calls. The project seeks to see if any price change patterns arrise depending on whether the cal had a positive or negative sentiment
+\hangindent=0.5in January 2020: [Earnings Call Analysis Analysis](https://github.com/jjenki22/Earning-Call-Analysis)$\\$
+Uses stock data from the Alpha Vantage API and the Loughran-McDonald lexicon to run sentiment analysis on quarterly earnings calls. The project seeks to see if any price change patterns arise depending on whether the cal had a positive or negative sentiment
 
 \hangindent=0.5in November 2019: [U.S. Flight Analysis, University of Notre Dame](https://github.com/jjenki22/Flight-Analysis)$\\$
 Examined U.S. airport and flight statistics in Python and utilized Pandas, NumPy, Matplotlib, and Pyplot to identify time-series trends within the industry such as delays, cancellations, and the busiest times to fly
 
 # Conference Presentation 
 
-\hangindent=0.5in Jenkins, J. K., Spahn, A. K., Gilgenbach, E. J. (2020, June). Clustering NCAA Basketball Teams. Presented at the Virtual Carolina Sports Analytics Meeting (CSAM), Wilminton, NC.
+\hangindent=0.5in Jenkins, J. K., Spahn, A. K., Gilgenbach, E. J. (2020, June). Clustering NCAA Basketball Teams. Presented at the Virtual Carolina Sports Analytics Meeting (CSAM), Wilmington, NC.
 
 # Teaching Experience
 
 \hangindent=0.5in Workshops: University of Notre Dame $\\$
-[Introduction to R Shiny](https://github.com/jjenki22/ShinyWorkshop)$\\$
+[Introduction to R Shiny](https://github.com/jjenki22/ShinyWorkshop)
 
 # Media Exposure
 [\emph{Finding A Seat: 2 Business Profs And A Grad Student Built An App To Help Sports Venues With Physical Distancing}](https://ndworks.nd.edu/news/finding-a-seat-2-business-profs-and-a-grad-student-built-an-app-to-help-sports-venues-with-physical-distancing/), Jackson M., ND Works
@@ -127,13 +125,10 @@ Examined U.S. airport and flight statistics in Python and utilized Pandas, NumPy
 # Honors and Awards
 
 Dean's Award Recipient University of Notre Dame, Mendoza College of Business -- May 2020
-
-King's Medal Award Recipient St. Andrew's School -- August 2012
+\newline King's Medal Award Recipient St. Andrew's School -- June 2014
 
 # Extracurricular
 
 Member - Michiana R Users Group (MRUG)
-
-Member - Toastmasters International
-
-Member - MBA Business Analytics Club
+\newline Member - Toastmasters International
+\newline Member - MBA Business Analytics Club
