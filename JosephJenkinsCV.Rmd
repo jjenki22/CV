@@ -17,7 +17,7 @@ fontfamily: libertine
 \maketitle
 \rule{7in}{1.0pt}
 
-\allsectionsfont{\sffamily\underline}
+\allsectionsfont{\underline}
 
 \normalsize
 9 Arnold Ave $\\$
@@ -52,12 +52,14 @@ Experimental Design
 ## Programming
 
 Statistical: R (primary), Python (novice), Stata (basic knowledge)
-\newline Collaboration/Reporting/Visualization: Git, \LaTeX, R Markdown, R/RStudio, R Shiny 
-\newline Other: SQL 
+
+Collaboration/Reporting/Visualization: Git, \LaTeX, R Markdown, R/RStudio, R Shiny 
+
+Other: SQL 
 
 # Occupational History
 
-\hangindent=0.5in 2020--current: Partner & UX Designer -- SafeSeating Solutions$\\$
+\hangindent=0.5in 2020--Current: Partner & UX Designer -- SafeSeating Solutions$\\$
 Developed an application that helped athletic teams optimize their stadiums for social distancing; used by Notre Dame Athletics and an MLB team planning for 2021 season
 \newline Led the development of the user interface that allows athletic departments to adjust the model’s inputs based on feedback from athletic directors and local health officials
 
@@ -77,8 +79,8 @@ Worked in Senator Whitehouse office, specifically talking with constituents to a
 Supported the specific needs of children with autism to facilitate a camp experience in a safe environment; created customized opportunities that instilled confidence and a sense of community with fellow campers
 
 # Current Research
-\hangindent=0.5in 2020--current: Research Assistant -- University of Notre Dame, Mendoza College of Business$\\$
-Add Info
+\hangindent=0.5in 2020--Current: Research Assistant -- University of Notre Dame, Mendoza College of Business$\\$
+Uses convolutional neural networks to generate artificial faces that are presented within a survey design to analyze implicit bias
 
 # Projects
 
